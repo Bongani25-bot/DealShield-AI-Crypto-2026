@@ -6,6 +6,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -36,3 +37,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> fdd4d79 (Initial commit: fresh main.py and bot files)
